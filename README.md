@@ -1,5 +1,5 @@
 # ✨JeaValley Aether✨
-================
+================================================
 
 Terminal tabanlı Aether istemcisi; hesap oluşturur veya giriş yapar, seçtiğin yerel portu tüneller ve sana paylaşılabilir bir bağlantı üretir. Tünelin durumunu gösterir, istersen kapatırsın. Python zorunlu değildir; shell ve PowerShell sürümleri doğrudan çalışır.
 
