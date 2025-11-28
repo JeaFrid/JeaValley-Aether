@@ -7,7 +7,7 @@ Terminal tabanlı Aether istemcisi; hesap oluşturur veya giriş yapar, seçtiğ
 -------------
 - Linux/macOS: `curl`, `jq` (paket yöneticisinden kur).  
 - Windows: PowerShell 5+ (varsayılan), `aether.bat` yeterli.  
-- Opsiyonel: Python 3.9+ (sadece `aether.py` kullanacaksan).
+- Opsiyonel: Python 3.9+ (sadece `aether.py` kullanacaksan) ve `pip install -r requirements.txt`.
 
 ## Kurulum
 -------
