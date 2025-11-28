@@ -1,0 +1,16 @@
+__pycache__/
+*.pyc
+*.pyo
+*.log
+*.tmp
+.DS_Store
+todo.md
+.env
+*.db
+server.py
+system.py.txt
+system.dart.txt
+dist/
+build/
+.pytest_cache/
+node_modules/
