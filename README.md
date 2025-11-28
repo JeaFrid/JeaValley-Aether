@@ -43,4 +43,7 @@ Aynı komutlar Windows için `aether.bat` / `aether.ps1` ile birebir geçerlidir
 - Windows oturum dosyası: `%USERPROFILE%\.jeatunnel.json`  
 - Sunucu adresi ortam değişkeni: `JEATUNNEL_SERVER`  
 - Konfigürasyon yolu ortam değişkeni: `JEATUNNEL_CONFIG`
-# JeaValley-Aether
+
+# Aether'da sorun mu var?
+Bize ulaş: support@jeafriday.com
+Ticket At: https://jeafriday.com
